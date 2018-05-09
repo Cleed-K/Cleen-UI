@@ -1,7 +1,7 @@
 {
-  "name": "keen-ui",
+  "name": "cleen-ui",
   "version": "1.0.1",
-  "description": "A lightweight collection of essential UI components written with Vue and inspired by Material Design.",
+  "description": "A lightweight collection of essential UI components written with Vue, fork from Keen-ui, now following Material Design specs.",
   "main": "dist/keen-ui.js",
   "scripts": {
     "dev": "cross-env NODE_ENV=development webpack-dev-server --config build/webpack.dev.js --open --inline --hot",
@@ -15,7 +15,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/JosephusPaye/Keen-UI.git"
+    "url": "git+https://github.com/Cleed-K/Cleen-UI.git"
   },
   "keywords": [
     "vue",
@@ -34,13 +34,13 @@
     "yarn.lock"
   ],
   "author": {
-    "name": "Josephus Paye II"
+    "name": "Killian Palos"
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/JosephusPaye/Keen-UI/issues"
+    "url": "https://github.com/Cleed-K/Cleen-UI/issues"
   },
-  "homepage": "https://github.com/JosephusPaye/Keen-UI/",
+  "homepage": "https://github.com/Cleed-K/Cleen-UI/",
   "dependencies": {
     "autosize": "^3.0.20",
     "deepmerge": "^2.0.1",
