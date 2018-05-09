@@ -6,16 +6,9 @@
             </div>
 
             <div class="ui-snackbar__action">
-                <ui-button
-                    class="ui-snackbar__action-button"
-                    type="secondary"
-
-                    :color="actionColor"
-
-                    @click.stop="onActionClick"
-
+              <mdc-button
                     v-if="action"
-                >{{ action }}</ui-button>
+                >{{ action }}</mdc-button>
             </div>
         </div>
     </transition>
@@ -23,6 +16,7 @@
 
 <script>
 import UiButton from './UiButton.vue';
+import VueMDCButton from 'vue-mdc-adapter/button'
 
 export default {
     name: 'ui-snackbar',
@@ -66,6 +60,7 @@ export default {
 
     components: {
         UiButton
+        VueMDCButton
     }
 };
 </script>
