@@ -16,6 +16,7 @@
 
 <script>
 import UiButton from './UiButton.vue';
+import VueMDCButton from 'vue-mdc-adapter';
 
 export default {
     name: 'ui-snackbar',
@@ -58,7 +59,8 @@ export default {
     },
 
     components: {
-        UiButton
+        UiButton,
+        VueMDCButton
     }
 };
 </script>
