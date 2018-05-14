@@ -35,6 +35,7 @@ import UiTextbox from './UiTextbox.vue';
 import UiToolbar from './UiToolbar.vue';
 import UiTooltip from './UiTooltip.vue';
 import VueMDCAdapter from 'vue-mdc-adapter'
+Vue.use(VueMDCAdapter)
 
 const KeenUI = {
     UiAlert,
@@ -70,7 +71,6 @@ const KeenUI = {
     UiTextbox,
     UiToolbar,
     UiTooltip,
-    VueMDCAdapter
 };
 
 KeenUI.install = function (Vue, config = {}) {

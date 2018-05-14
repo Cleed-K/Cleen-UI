@@ -16,7 +16,6 @@
 
 <script>
 import UiButton from './UiButton.vue';
-import Vue from 'vue'
 
 export default {
     name: 'ui-snackbar',
