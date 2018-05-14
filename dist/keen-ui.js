@@ -34124,33 +34124,33 @@ if (false) {(function () {
 /* unused harmony reexport VueMDCTheme */
 /* unused harmony reexport VueMDCToolbar */
 /* unused harmony reexport VueMDCTypography */
-/* unused harmony reexport namespace */
-/* unused harmony reexport namespace */
-/* unused harmony reexport namespace */
-/* unused harmony reexport namespace */
-/* unused harmony reexport namespace */
-/* unused harmony reexport namespace */
-/* unused harmony reexport namespace */
-/* unused harmony reexport namespace */
-/* unused harmony reexport namespace */
-/* unused harmony reexport namespace */
-/* unused harmony reexport namespace */
-/* unused harmony reexport namespace */
-/* unused harmony reexport namespace */
-/* unused harmony reexport namespace */
-/* unused harmony reexport namespace */
-/* unused harmony reexport namespace */
-/* unused harmony reexport namespace */
-/* unused harmony reexport namespace */
-/* unused harmony reexport namespace */
-/* unused harmony reexport namespace */
-/* unused harmony reexport namespace */
-/* unused harmony reexport namespace */
-/* unused harmony reexport namespace */
-/* unused harmony reexport namespace */
-/* unused harmony reexport namespace */
-/* unused harmony reexport namespace */
-/* unused harmony reexport namespace */
+/* unused harmony namespace reexport */
+/* unused harmony namespace reexport */
+/* unused harmony namespace reexport */
+/* unused harmony namespace reexport */
+/* unused harmony namespace reexport */
+/* unused harmony namespace reexport */
+/* unused harmony namespace reexport */
+/* unused harmony namespace reexport */
+/* unused harmony namespace reexport */
+/* unused harmony namespace reexport */
+/* unused harmony namespace reexport */
+/* unused harmony namespace reexport */
+/* unused harmony namespace reexport */
+/* unused harmony namespace reexport */
+/* unused harmony namespace reexport */
+/* unused harmony namespace reexport */
+/* unused harmony namespace reexport */
+/* unused harmony namespace reexport */
+/* unused harmony namespace reexport */
+/* unused harmony namespace reexport */
+/* unused harmony namespace reexport */
+/* unused harmony namespace reexport */
+/* unused harmony namespace reexport */
+/* unused harmony namespace reexport */
+/* unused harmony namespace reexport */
+/* unused harmony namespace reexport */
+/* unused harmony namespace reexport */
 /**
 * @module vue-mdc-adapter 0.15.3
 * @exports default
@@ -34977,7 +34977,7 @@ var index = {
   }
 };
 
-/* unused harmony default export */ var _unused_webpack_default_export = (index);
+/* harmony default export */ __webpack_exports__["a"] = (index);
 
 
 
@@ -35568,7 +35568,8 @@ var KeenUI = {
     UiTabs: __WEBPACK_IMPORTED_MODULE_31__UiTabs_vue__["a" /* default */],
     UiTextbox: __WEBPACK_IMPORTED_MODULE_32__UiTextbox_vue__["a" /* default */],
     UiToolbar: __WEBPACK_IMPORTED_MODULE_33__UiToolbar_vue__["a" /* default */],
-    UiTooltip: __WEBPACK_IMPORTED_MODULE_34__UiTooltip_vue__["a" /* default */]
+    UiTooltip: __WEBPACK_IMPORTED_MODULE_34__UiTooltip_vue__["a" /* default */],
+    VueMDCAdapter: __WEBPACK_IMPORTED_MODULE_35_vue_mdc_adapter__["a" /* default */]
 };
 
 KeenUI.install = function (Vue) {

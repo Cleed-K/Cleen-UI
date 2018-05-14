@@ -69,7 +69,8 @@ const KeenUI = {
     UiTabs,
     UiTextbox,
     UiToolbar,
-    UiTooltip
+    UiTooltip,
+    VueMDCAdapter
 };
 
 KeenUI.install = function (Vue, config = {}) {
