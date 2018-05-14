@@ -34,6 +34,7 @@ import UiTabs from './UiTabs.vue';
 import UiTextbox from './UiTextbox.vue';
 import UiToolbar from './UiToolbar.vue';
 import UiTooltip from './UiTooltip.vue';
+import VueMDCAdapter from 'vue-mdc-adapter'
 
 const KeenUI = {
     UiAlert,
